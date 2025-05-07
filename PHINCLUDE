@@ -1,0 +1,12 @@
+CONTRIBUTING.md
+README.md
+__init__.py
+link.json
+link_connector.py
+link_widget_view.html
+link_widget_view.py
+logo_link.svg
+logo_link_dark.svg
+manual_readme_content.md
+pyproject.toml
+requirements.txt
